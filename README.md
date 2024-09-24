@@ -13,12 +13,12 @@
 <br><br>
 
 ## 기술
--백엔드
-  -Java11
-  -Tomcat8.5
--프론트엔드
-  -javaScript
-  -JQuery
+- 백엔드
+  - Java11
+  - Tomcat8.5
+- 프론트엔드
+  - JavaScript
+  - JQuery
 <br><br>
 
 ## 구조
